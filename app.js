@@ -37,7 +37,7 @@ app.get('/', (req, res) => res.send(`
   </style>
 </head>
 <body>
-  <h1>Hello World! Welcome to AWS</h1>
+  <h1>Hello Cloud Computing! Welcome to AWS</h1>
   <button onclick="changeBackgroundColor()">Change Background Color</button>
   <script>
     function changeBackgroundColor() {
