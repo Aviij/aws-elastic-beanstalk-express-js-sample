@@ -8,7 +8,7 @@ app.get('/', (req, res) => res.send(`
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Welcome TO cloud computing</title>
+  <title>Helloooooooo AWS</title>
   <style>
     body {
       background-color: #3498db; /* Initial background color */
